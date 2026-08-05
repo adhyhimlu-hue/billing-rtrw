@@ -1,7 +1,7 @@
 const CACHE_NAME = 'customer-pwa-v1';
 const PRECACHE_URLS = [
   '/css/style.css',
-  '/img/logo.png',
+  '/img/altra-logo.png',
   '/img/pwa-icon.svg',
   '/img/hero.png',
   '/customer/login',
