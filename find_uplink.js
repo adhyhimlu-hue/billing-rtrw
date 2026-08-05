@@ -1,5 +1,5 @@
 const snmp = require('net-snmp');
-const host = '192.168.8.88';
+const host = '192.168.88.88';
 const community = 'SNMPREAD';
 
 const session = snmp.createSession(host, community, {
