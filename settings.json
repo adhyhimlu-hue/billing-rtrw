@@ -1,5 +1,5 @@
 {
-  "genieacs_url": "http://192.168.8.189:7557",
+  "genieacs_url": "http://192.168.88.254:7557",
   "genieacs_username": "admin",
   "genieacs_password": "admin",
   "genieacs_timeout": 30000,
