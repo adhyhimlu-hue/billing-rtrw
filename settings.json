@@ -25,7 +25,7 @@
   "company_email": "adhyhimlu@gmail.com",
   "company_address": "Perumahan Harmoni Desa Medana Kecamatan Tanjung Lombok Utara",
   "operational_hours": "Setiap Hari: 08.00 - 22.00 WIB",
-  "mikrotik_host": "192.168.8.1",
+  "mikrotik_host": "192.168.88.1",
   "mikrotik_user": "admin",
   "mikrotik_password": "admin",
   "mikrotik_port": 8728,
